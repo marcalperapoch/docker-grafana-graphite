@@ -91,6 +91,7 @@ EXPOSE 81
 EXPOSE 2003
 
 # Graphite carbon-cache pickle receiver
+EXPOSE 2004
 
 # -------- #
 #   Run!   #
